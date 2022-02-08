@@ -1,4 +1,7 @@
-This is the creteria that was used in creating the survey. The following issues and questions were considered.
+
+The survey is about finding out what infuluenced people to take or not to take a particular Covid vaccines. This could have been age, financial status, gender, educational background , exisiting health conditions and many others as in the list bellow. 
+
+This is the creteria that was used in creating the survey. The following issues and questions were considered. 
 
 1. AGE *
 Below 18 Years
