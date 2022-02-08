@@ -4,7 +4,7 @@ import questions
 nbrOfQns = 25
 
 print("covid 19 jab insights")
-print("Question 1" + " of " + str(nbrOfQns))git 
+print("Question 1" + " of " + str(nbrOfQns))
 print("please select Age category:")
 print("1: Below 18 years")
 print("2: 19 - 25 Year")
@@ -90,4 +90,3 @@ print("Question 6" + " of " + str(nbrOfQns))
 questions.qn6()
 
 os.system('cls')
-
